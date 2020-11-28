@@ -44,3 +44,7 @@ You can also supply your own html template for the Unity WebGL build process, bu
 
 Unity has builtin support for HTTPRequests.
 You can find a pretty dumbed down usage example in [](https://github.com/rkeeves/unity-communication-game/blob/main/Assets/CustomConfiguration.cs)
+
+## Web build
+
+You can find the web build in the webassembly-build directory of this repo.
